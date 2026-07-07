@@ -1,0 +1,16 @@
+audio_path,stim_list,stimulus_path_list
+data/stimuli/May23_basu_mallick_stim/mcgurk_kuhl_std.wav,mcgurk_kuhl_std,data/stimuli/May23_basu_mallick_stim/mcgurk_kuhl_std.mp4
+data/stimuli/May23_basu_mallick_stim/Mik_Bg.wav,Mik_Bg,data/stimuli/May23_basu_mallick_stim/Mik_Bg.mp4
+data/stimuli/May23_basu_mallick_stim/kao_Bg.wav,kao_Bg,data/stimuli/May23_basu_mallick_stim/kao_Bg.mp4
+data/stimuli/May23_basu_mallick_stim/Ter_Bg.wav,Ter_Bg,data/stimuli/May23_basu_mallick_stim/Ter_Bg.mp4
+data/stimuli/May23_basu_mallick_stim/Lor_Bg.wav,Lor_Bg,data/stimuli/May23_basu_mallick_stim/Lor_Bg.mp4
+data/stimuli/May23_basu_mallick_stim/dkbeard_std_new.wav,dkbeard_std_new,data/stimuli/May23_basu_mallick_stim/dkbeard_std_new.mp4
+data/stimuli/May23_basu_mallick_stim/McGurk2_new.wav,McGurk2_new,data/stimuli/May23_basu_mallick_stim/McGurk2_new.mp4
+data/stimuli/May23_basu_mallick_stim/bgd4.wav,bgd4,data/stimuli/May23_basu_mallick_stim/bgd4.mp4
+data/stimuli/May23_basu_mallick_stim/bbc_mcg_mouth_new.wav,bbc_mcg_mouth_new,data/stimuli/May23_basu_mallick_stim/bbc_mcg_mouth_new.mp4
+data/stimuli/May23_basu_mallick_stim/pkt.wav,pkt,data/stimuli/May23_basu_mallick_stim/pkt.mp4
+data/stimuli/May23_basu_mallick_stim/mcgurk_medina_std.wav,mcgurk_medina_std,data/stimuli/May23_basu_mallick_stim/mcgurk_medina_std.mp4
+data/stimuli/May23_basu_mallick_stim/poeppel_pkt.wav,poeppel_pkt,data/stimuli/May23_basu_mallick_stim/poeppel_pkt.mp4
+data/stimuli/May23_basu_mallick_stim/mcgurk_bearded_guy_cut_new.wav,mcgurk_bearded_guy_cut_new,data/stimuli/May23_basu_mallick_stim/mcgurk_bearded_guy_cut_new.mp4
+data/stimuli/May23_basu_mallick_stim/dasmcgurk_std_new.wav,dasmcgurk_std_new,data/stimuli/May23_basu_mallick_stim/dasmcgurk_std_new.mp4
+data/stimuli/May23_basu_mallick_stim/Quinto_McGurk.wav,Quinto_McGurk,data/stimuli/May23_basu_mallick_stim/Quinto_McGurk.mp4

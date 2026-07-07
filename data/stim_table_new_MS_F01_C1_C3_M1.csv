@@ -1,0 +1,4 @@
+audio_path,stim_list,stimulus_path_list
+data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_C1_new1.wav,A_MS1_F01_C1_new1,data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_C1_new1.mp4
+data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_M1_new1.wav,A_MS1_F01_M1_new1,data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_M1_new1.mp4
+data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_C3_new1.wav,A_MS1_F01_C3_new1,data/stimuli/Aug1_new_F01_C1_C3_M1/A_MS1_F01_C3_new1.mp4

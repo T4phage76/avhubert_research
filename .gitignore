@@ -1,0 +1,45 @@
+# Library (external dependency - cloned by configure.sh)
+library/
+
+# Large model/data files
+data/finetune-model.pt
+data/misc/shape_predictor_68_face_landmarks.dat
+
+# Stimuli (large media files - not needed to replicate the study workflow)
+data/stimuli/
+
+# LRS2 dataset (preprocessed training data, ~500k files)
+LRS_processing/LRS2/
+
+# Inference and experiment results (outputs)
+results/
+*.pkl
+*.h5
+
+# Logs
+*.log
+
+# Visual benefit stimuli (large audio/video)
+visual_benefit/AUDIO_all/
+visual_benefit/AUDIO_all_16k/
+visual_benefit/Sep20_Izzie2024/
+visual_benefit/wordvariability_-4dB_AnAcVAnVAcV/
+
+# Analysis figures (outputs)
+*.png
+*.jpg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Environment / local config (machine-specific paths)
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

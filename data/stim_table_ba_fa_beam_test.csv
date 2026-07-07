@@ -1,0 +1,13 @@
+audio_path,stim_list,stimulus_path_list
+data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Anna_test.wav,Aba1Vba1_Anna_test,data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Anna_test.mp4
+data/stimuli/all_stim_paper/beam_test/Aba1Vfa1_Anna.wav,Aba1Vfa1_Anna,data/stimuli/all_stim_paper/beam_test/Aba1Vfa1_Anna.mp4
+data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Courtney_test.wav,Aba1Vba1_Courtney_test,data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Courtney_test.mp4
+data/stimuli/all_stim_paper/beam_test/fa_1_Anna.wav,fa_1_Anna,data/stimuli/all_stim_paper/beam_test/fa_1_Anna.mp4
+data/stimuli/all_stim_paper/beam_test/fa_2_Alexandra.wav,fa_2_Alexandra,data/stimuli/all_stim_paper/beam_test/fa_2_Alexandra.mp4
+data/stimuli/all_stim_paper/beam_test/Aba1Vfa2_Alexandra.wav,Aba1Vfa2_Alexandra,data/stimuli/all_stim_paper/beam_test/Aba1Vfa2_Alexandra.mp4
+data/stimuli/all_stim_paper/beam_test/fa_2_Courtney.wav,fa_2_Courtney,data/stimuli/all_stim_paper/beam_test/fa_2_Courtney.mp4
+data/stimuli/all_stim_paper/beam_test/Aba2Vba2_Taylor_test.wav,Aba2Vba2_Taylor_test,data/stimuli/all_stim_paper/beam_test/Aba2Vba2_Taylor_test.mp4
+data/stimuli/all_stim_paper/beam_test/Aba1Vfa2_Courtney.wav,Aba1Vfa2_Courtney,data/stimuli/all_stim_paper/beam_test/Aba1Vfa2_Courtney.mp4
+data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Alexandra_test.wav,Aba1Vba1_Alexandra_test,data/stimuli/all_stim_paper/beam_test/Aba1Vba1_Alexandra_test.mp4
+data/stimuli/all_stim_paper/beam_test/Afa2Vfa2_Taylor_test.wav,Afa2Vfa2_Taylor_test,data/stimuli/all_stim_paper/beam_test/Afa2Vfa2_Taylor_test.mp4
+data/stimuli/all_stim_paper/beam_test/Aba2Vfa2_Taylor.wav,Aba2Vfa2_Taylor,data/stimuli/all_stim_paper/beam_test/Aba2Vfa2_Taylor.mp4
